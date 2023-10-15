@@ -1,0 +1,9 @@
+*.png
+*.csv
+*.class
+*.txt
+/dataSources/
+/dataSources.local.xml
+/shelf/
+/workspace.xml
+/httpRequests/
